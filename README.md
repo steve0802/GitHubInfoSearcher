@@ -5,7 +5,7 @@ Right now this app provide the function to search GitHub user, and open the GitH
 
 The project architecture is composed of the following components:
 
-     * Android MVVM pattern using Koin library and Architecture Components (ViewModel and LiveData)
+     * Android MVVM pattern using Architecture Components (ViewModel and LiveData)
      * Rest API calls using Retrofit2 libray 
      * Android Paging library 
 
